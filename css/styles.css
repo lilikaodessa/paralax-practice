@@ -1,0 +1,35 @@
+.jumbotron{
+    text-align: center;
+    padding-top: 250px;
+    margin-bottom: 0px;
+    height: 100vh;
+    background-position: center;
+    background-attachment: fixed;
+}
+.jumbotron > .container{
+    background-color: white;
+    opacity: 0.5;
+    border-radius: 100px;
+}
+
+.jumbo1{
+    background-image: url(https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+
+.jumbo2{
+    background-image: url(https://images.pexels.com/photos/1174732/pexels-photo-1174732.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+}
+
+.jumbo3{
+    background-image: url(https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+
+h1{
+    font-family: lobster;
+}
+
+.footer{
+    position: relative;
+    bottom: 0;
+    margin-top: -44px;
+}
